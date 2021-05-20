@@ -1,0 +1,83 @@
+.navbar {
+  background-color: rgb(31, 59, 59);
+}
+
+.jumbotron img {
+  border-radius: 50%;
+  width: 200px;
+  border: 5px solid #777;
+}
+
+.jumbotron {
+  background-image: url(../diamond/cinta.gif);
+  margin-top: 50px;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.jumbotron h1 {
+  color: antiquewhite;
+}
+
+.jumbotron p {
+  color: antiquewhite;
+}
+
+.about hr {
+  width: 250px;
+  border: 3px solid #555;
+}
+
+section {
+  min-height: 600px;
+}
+
+.portfolio {
+  background-color: #777;
+}
+
+.portfolio hr {
+  width: 250px;
+  border: 3px solid #999999;
+}
+
+.portfolio h2 {
+  color: antiquewhite;
+}
+
+.contact {
+  background-color: rgb(7, 80, 122);
+}
+
+.contact hr {
+  width: 250px;
+  border: 3px solid #777;
+}
+
+.contact h2 {
+  color: cornsilk;
+}
+
+footer {
+  width: 100%;
+  position: absolute;
+  min-height: 50px;
+  background-color: rgb(36, 35, 35);
+}
+
+footer h6 {
+  color: blanchedalmond;
+}
+
+svg {
+  color: yellow;
+}
+
+.projects {
+  background-color: cadetblue;
+}
+
+.projects hr {
+  width: 250px;
+  border: 3px solid #555;
+}
