@@ -23,13 +23,59 @@
   color: antiquewhite;
 }
 
+.about {
+  background-color: #777;
+}
+
+.text-center {
+  margin-top: 40px;
+}
 .about hr {
   width: 250px;
   border: 3px solid #555;
 }
 
+.layar-dalam {
+  width: 800px;
+  margin: auto;
+}
+
+.layar-dalam {
+  padding: 50px 0px 50px 0px;
+}
+
+.card-text {
+  text-align: center;
+}
+
+.layar-dalam p {
+  padding-left: 100px;
+  padding-right: 100px;
+  text-align: justify;
+  color: #b1b1b1;
+  font-size: 18px;
+  margin-top: 40px;
+}
+
+h6 {
+  text-decoration: underline;
+  font-size: 14px;
+  color: blueviolet;
+}
+h5 {
+  font-style: italic;
+}
+
+.myfinancial {
+  margin-top: 32px;
+}
+.layar-dalam hr {
+  border-bottom: 5px solid goldenrod;
+  width: 200px;
+}
+
 section {
-  min-height: 600px;
+  min-height: 500px;
 }
 
 .portfolio {
@@ -46,12 +92,16 @@ section {
 }
 
 .contact {
-  background-color: rgb(7, 80, 122);
+  background-color: rgb(15, 78, 114);
 }
 
 .contact hr {
   width: 250px;
   border: 3px solid #777;
+}
+
+.col h2 {
+  margin-top: 20px;
 }
 
 .contact h2 {
@@ -74,10 +124,51 @@ svg {
 }
 
 .projects {
-  background-color: cadetblue;
+  background-color: rgb(15, 78, 114);
 }
 
 .projects hr {
   width: 250px;
-  border: 3px solid #555;
+  border: 3px solid #777;
+}
+
+.maps h2 {
+  color: #555;
+  text-align: center;
+}
+
+.maps hr {
+  width: 250px;
+  border: 3px solid #999999;
+}
+
+.audio {
+  padding-left: 30px;
+  opacity: 80%;
+}
+
+.navbar-nav-navbar-right li {
+  margin-bottom: 5px;
+}
+
+h5 {
+  color: aliceblue;
+  margin-top: 40px;
+}
+
+.col h2 {
+  color: antiquewhite;
+}
+
+.html,
+.css,
+.javascript,
+.boostrap,
+.studio,
+.github {
+  width: 200px;
+  height: 200px;
+  margin-left: 70px;
+  margin-top: 50px;
+  margin-bottom: 70px;
 }
